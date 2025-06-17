@@ -1,0 +1,6 @@
+{
+  "app_id": 12345,
+  "client_id": "从开发者中心「游戏服务」→「应用配置」获取的Client_ID",
+  "server_secret": "从开发者中心「游戏服务」→「应用配置」获取的server_secret",
+  "chunk_size": 104857600
+}
