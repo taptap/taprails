@@ -18,6 +18,10 @@ TapRails 是 TapTap 平台提供的 PC 游戏包体上传工具，用于将游�
 
 📖 **[使用说明](https://developer.taptap.cn/docs/sdk/tap-rails/guide/)**
 
+### 版本记录
+
+请查看 [CHANGELOG.md](CHANGELOG.md)。
+
 ### 支持
 
 如有问题或建议，请通过以下方式联系我们：
@@ -42,6 +46,10 @@ Please visit the [Releases](https://github.com/taptap/taprails/releases)  page t
 For complete usage guide and parameter reference, please see:
 
 📖 **[Usage Guide](https://developer.taptap.cn/docs/sdk/tap-rails/guide/)**
+
+### Changelog
+
+See [CHANGELOG.md](CHANGELOG.md).
 
 ### Support
 
