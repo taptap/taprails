@@ -14,6 +14,8 @@ TapRails 是 TapTap 平台提供的 PC 游戏包体上传工具，用于将游�
 
 请访问 [Releases](https://github.com/taptap/taprails/releases) 页面下载对应操作系统最新版本的工具。
 
+最新版本：`v1.2.1`。包体 ID 日志关键字：`taptap_package_id=`。
+
 ### 快速开始
 
 📖 **[使用说明](https://developer.taptap.cn/docs/sdk/tap-rails/guide/)**
@@ -40,6 +42,8 @@ TapRails is a PC game package upload tool provided by TapTap platform for upload
 ### Getting the Tool
 
 Please visit the [Releases](https://github.com/taptap/taprails/releases)  page to download the latest version of the tool for your operating system.
+
+Latest version: `v1.2.1`. Package ID log keyword: `taptap_package_id=`.
 
 ### Documentation
 

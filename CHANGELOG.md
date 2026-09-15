@@ -1,5 +1,15 @@
 # Changelog
 
+## v1.2.1 (2026-09-15)
+
+### 中文
+
+- 上传成功后输出包体 ID，检索关键字：`taptap_package_id=`
+
+### English
+
+- Log the package ID after a successful upload; search for `taptap_package_id=`
+
 ## v1.2.0 (2026-07-07)
 
 ### 中文
